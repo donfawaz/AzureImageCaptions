@@ -1,5 +1,4 @@
 # AzureImageCaptions
-train image caption in azure workspace
 
 train encoder-decoder architecture consist of CNN, RNN on image caption COCO dataset using Azure worksapce
 
